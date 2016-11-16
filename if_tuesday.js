@@ -6,4 +6,3 @@ var day = 'Monday';
     else{
       console.log('Some other day : ' + day);
     }
-    
