@@ -18,4 +18,5 @@ var fromWhere = function(regNum){
           return 'Some other place!';
   }
 };
-assert.equal(fromWhere('CA'), 'Cape Town');
+assert.equal(fromWhere('CJ'), 'Paarl');
+//assert.equal(fromWhere('GP'), 'Some other place!');
